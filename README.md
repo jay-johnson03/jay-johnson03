@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-<!--
-**jay-johnson03/jay-johnson03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**All About Me**
 
-Here are some ideas to get you started:
+Introduction : Hello! My name is Jay Johnson and I am currently a student at Oklahoma City University. My major is Computer Science with minors in Math and Cybersecurity. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
