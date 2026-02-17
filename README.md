@@ -2,7 +2,7 @@
 
 **All About Me**
 
-Introduction : Hello! My name is Jay Johnson and I am currently a student at Oklahoma City University. My major is Computer Science with minors in Math and Cybersecurity. I am currently learning Java, JavaScript, HTML/CSS, mySQL, Node.js, and Web APis. 
+Introduction : Hello! My name is Jay Johnson and I am currently a student majoring in Computer Science with minors in Math and Cybersecurity. I am currently learning Web Development, Python, and Lisp.
 
 ## About Me 
 ### Music 
@@ -15,8 +15,3 @@ Introduction : Hello! My name is Jay Johnson and I am currently a student at Okl
    - Selena Gomez
    - Madison Beer
    - Stray Kids
-### Activities 
-- Cooking / Baking
-- Playing Games
-- Walking outside
-- Karaoke 
